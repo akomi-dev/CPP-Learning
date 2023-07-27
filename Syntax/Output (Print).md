@@ -1,4 +1,4 @@
-#### C++ uses a unique terminal/console printing format
+### C++ uses a unique terminal/console printing format
 
 For example: Python uses `print()`
 ```python
@@ -12,7 +12,7 @@ std::cout << "Hello World!";
 ```
 
 
-#### Example:
+### Example:
 
 This is a proper example of code being sent out to the console with a C++ file:
 ```c++

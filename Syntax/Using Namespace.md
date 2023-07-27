@@ -1,3 +1,4 @@
+## using namespace std; is seen as a bad practice
 
 A using namespace statement allows for a more condensed view of ones code.
 
@@ -7,7 +8,7 @@ This is an example of a `using namespace` for the `std` library (using namespace
 using namespace std;
 ```
 
-#### Without namespace:
+### Without namespace:
 
 [[Base Template]]
 ```c++
@@ -20,7 +21,7 @@ int main()
 }
 ```
 
-#### With namespace:
+### With namespace:
 
 ```c++
 #include <iostream>

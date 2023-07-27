@@ -1,7 +1,7 @@
 
 - Compiler: [[Mingw-w64]]
 
-#### Simple Compile and .exe run
+### Simple Compile and .exe run
 
 1. Firstly, you must navigate to the directory where the C++ application resides. Replace `<folder-directory>` with the actual location.
 
@@ -23,7 +23,7 @@ $ g++ main.cpp -o main
 $ ./main.exe
 ```
 
-#### Combined Compile and Run Command
+### Combined Compile and Run Command
 
 This terminal command will compile and run a C++ application with one fowl swoop of a keyboard. It is everything defined above combined into one.  
 

@@ -15,7 +15,7 @@ In-line Comments:
 std::cout << "Hello World!"; // This is a comment
 ```
 
-#### Multi-Line:
+### Multi-Line:
 
 Multi-line comments start with `/*` and ends with `*/`.
 Any text between `/*` and `*/` will be ignored by the compiler:

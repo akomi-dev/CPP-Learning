@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d0c87d9e2f89db97",
+        "id": "7b7622f2de8e80c3",
         "type": "tabs",
         "children": [
           {
-            "id": "c2dff5e1ba4a68bc",
+            "id": "3986b045ca1f47fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Syntax/Arrays.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Syntax/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Syntax/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Syntax/Arrays.md"
+              }
             }
           }
         ]
@@ -138,27 +146,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2dff5e1ba4a68bc",
+  "active": "3986b045ca1f47fa",
   "lastOpenFiles": [
-    "Pointers.md",
     "References.md",
     "Structures.md",
-    "Loops.md",
     "Vectors.md",
-    "Syntax/User Input.md",
-    "Syntax/Booleans.md",
-    "Syntax/Math.md",
-    "Syntax/Variables & Data Types.md",
-    "Syntax/Comments.md",
-    "Syntax/Output (Print).md",
-    "Arrays.md",
-    "projects/3-Fibonnaci/main.exe",
+    "Pointers.md",
     "Syntax/Using Namespace.md",
+    "Syntax/Arrays.md",
+    "Untitled.canvas",
+    "Syntax/Loops.md",
+    "Syntax/Switch.md",
+    "Syntax/Variables & Data Types.md",
+    "Syntax/User Input.md",
+    "Syntax/Run & Compile.md",
+    "Syntax/Output (Print).md",
+    "Syntax/Operators.md",
+    "Syntax/Math.md",
+    "Syntax/Comments.md",
+    "Syntax/Booleans.md",
+    "Syntax/Base Template.md",
+    "projects/3-Fibonnaci/main.exe",
     "projects/3-Fibonnaci/main.cpp",
     "projects/3-Fibonnaci",
     "Syntax/images/cmath 2.png",
     "Syntax/images/cmath 1.png",
-    "Syntax/Operators.md",
     "Syntax/images/Logical Operators.png",
     "Syntax/images/Comparison Operators.png",
     "Syntax/images/Assignment Operators.png",
@@ -167,8 +179,6 @@
     "History/History.md",
     "README.md",
     "History/Bjarne Stroustrup.md",
-    "Syntax/Run & Compile.md",
-    "Syntax/Base Template.md",
     "resources/Mingw-w64.md",
     "projects/1-HelloWorld/a.exe",
     "projects/1-HelloWorld/main.exe",
